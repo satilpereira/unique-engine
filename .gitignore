@@ -1,0 +1,9 @@
+.vscode
+
+# build output
+/build/
+/bin/
+_lab/bin/
+
+# vendored SFML build (rebuild via the Makefile header comment)
+/third_party/
